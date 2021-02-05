@@ -36,11 +36,12 @@ echo =================
 # get chnroute for shadowsocks chn and game mode
 
 # Deprecated in 2019-8-1
-# wget -4 -O- http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest > apnic.txt
-# cat apnic.txt| awk -F\| '/CN\|ipv4/ { printf("%s/%d\n", $4, 32-log($5)/log(2)) }' > chnroute1.txt
+# update 2021.2 发现 ipip_country_cn 不全，改用这个
+wget -4 -O- http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest > apnic.txt
+cat apnic.txt| awk -F\| '/CN\|ipv4/ { printf("%s/%d\n", $4, 32-log($5)/log(2)) }' > chnroute1.txt
 
 # use ipip_country_cn ip database sync by https://github.com/firehol/blocklist-ipsets from ipip.net（source: https://cdn.ipip.net/17mon/country.zip）.
-curl https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipip_country/ipip_country_cn.netset | sed '/^#/d' >chnroute1.txt
+# curl https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ipip_country/ipip_country_cn.netset | sed '/^#/d' >chnroute1.txt
 
 md5sum3=$(md5sum chnroute1.txt | sed 's/ /\n/g' | sed -n 1p)
 md5sum4=$(md5sum ../chnroute.txt | sed 's/ /\n/g' | sed -n 1p)
@@ -194,7 +195,7 @@ else
   sed -i "9c $(date +%Y-%m-%d) # $md5sum15 google_china" ../version1
 fi
 echo =================
-curl 'http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest' | grep CN | grep ipv6 | awk -F'|' '{printf("%s/%d\n", $4, $5)}' >chnroute2.txt
+cat apnic.txt | grep CN | grep ipv6 | awk -F'|' '{printf("%s/%d\n", $4, $5)}' >chnroute2.txt
 
 md5sum17=$(md5sum chnroute2.txt | sed 's/ /\n/g' | sed -n 1p)
 md5sum18=$(md5sum ../chnroute6.txt | sed 's/ /\n/g' | sed -n 1p)
@@ -212,6 +213,6 @@ echo =================
 # ======================================
 rm -f google.china.conf
 rm -f apple.china.conf
-rm -f gfwlist1.conf gfwlist_download.conf gfwlist_download_tmp.conf chnroute1.txt chnroute2.txt
+rm -f gfwlist1.conf gfwlist_download.conf gfwlist_download_tmp.conf chnroute1.txt chnroute2.txt apnic.txt
 rm -f cdn1.txt accelerated-domains.china.conf cdn_download.txt apple_download.txt google_download.txt
 rm -f WhiteList.txt WhiteList_tmp.txt apnic.txt WhiteList_new.txt Routing.txt
