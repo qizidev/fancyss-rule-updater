@@ -8,7 +8,7 @@ grep -Ev "([0-9]{1,3}[\.]){3}[0-9]{1,3}" gfwlist_download.conf >gfwlist_download
 
 if [ -f "gfwlist_download.conf" ]; then
   cat gfwlist_download_tmp.conf gfwlist_koolshare.conf | grep -Ev "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | sed "s/^/server=&\/./g" | sed "s/$/\/127.0.0.1#7913/g" >gfwlist_merge.conf
-  cat gfwlist_download_tmp.conf gfwlist_koolshare.conf | sed "s/^/ipset=&\/./g" | sed "s/$/\/gfwlist/g" >>gfwlist_merge.conf
+  cat gfwlist_download_tmp.conf gfwlist_koolshare.conf | sed "s/^/ipset=&\/./g" | sed "s/$/\/gfwlist,gfwlist6/g" >>gfwlist_merge.conf
 fi
 
 sort -k 2 -t. -u gfwlist_merge.conf >gfwlist1.conf
