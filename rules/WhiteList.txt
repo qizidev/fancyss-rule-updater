@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-02-17
+## Last update: 2021-02-18
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -817,7 +817,6 @@
 .*\b0gsc\.com
 .*\b0ju\.cc
 .*\b0kee\.com
-.*\b0omcp\.wang
 .*\b0quan8\.com
 .*\b0rg\.pw
 .*\b0s8s\.com
@@ -9551,6 +9550,7 @@
 .*\balllook\.tv
 .*\ballmaga\.net
 .*\ballmei\.com
+.*\ballnow\.com
 .*\ballok\.wang
 .*\balloyteam\.com
 .*\ballpayx\.com
@@ -12536,7 +12536,6 @@
 .*\bbjgtzl\.com
 .*\bbjgujibaohu\.com
 .*\bbjhaiguang\.com
-.*\bbjhchh\.com
 .*\bbjhdnet\.com
 .*\bbjhdsc\.com
 .*\bbjheadline\.com
@@ -17930,7 +17929,6 @@
 .*\bcomic123\.net
 .*\bcomic520\.com
 .*\bcomicdd\.com
-.*\bcomice\.net
 .*\bcomicer\.com
 .*\bcomicfans\.net
 .*\bcomiclub\.com
@@ -23883,7 +23881,6 @@
 .*\bfdkjgz\.com
 .*\bfdkm88\.com
 .*\bfdlly\.com
-.*\bfdlsi\.com
 .*\bfdlt\.net
 .*\bfdmgj\.com
 .*\bfdpx\.com
@@ -25872,7 +25869,6 @@
 .*\bgeotmt\.com
 .*\bgepresearch\.com
 .*\bgepush\.com
-.*\bgeqiming\.com
 .*\bgequ77\.com
 .*\bgequdaquan\.net
 .*\bgeren-jianli\.com
@@ -29165,7 +29161,6 @@
 .*\bhh04\.com
 .*\bhh1488\.com
 .*\bhhailuo\.com
-.*\bhhalloy\.com
 .*\bhhbg123\.com
 .*\bhhcmjt\.com
 .*\bhhcn\.com
@@ -39524,6 +39519,7 @@
 .*\bljjgdj\.org
 .*\bljjhfc\.com
 .*\bljlcd\.com
+.*\bljmeng\.site
 .*\bljqkk\.com
 .*\bljsdk\.com
 .*\bljsw\.io
@@ -54822,6 +54818,7 @@
 .*\btanpoqiuer\.com
 .*\btanqi888\.com
 .*\btanrd\.com
+.*\btanshudata\.com
 .*\btansoole\.com
 .*\btansuo233\.com
 .*\btansuotv\.com
@@ -62201,7 +62198,6 @@
 .*\bxfjw\.net
 .*\bxfkou\.com
 .*\bxfliusheng\.com
-.*\bxfmoney\.com
 .*\bxfnano\.com
 .*\bxfocus\.net
 .*\bxfocus\.org
@@ -69326,7 +69322,6 @@
 .*\bziiai\.com
 .*\bziipoo\.com
 .*\bziisp\.com
-.*\bziiyan\.com
 .*\bziji\.cc
 .*\bzijiayouly\.com
 .*\bzijie\.com
