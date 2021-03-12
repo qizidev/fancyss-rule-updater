@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-03-12
+## Last update: 2021-03-13
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -27518,6 +27518,7 @@
 .*\bh4\.cc
 .*\bh41s\.com
 .*\bh4399\.com
+.*\bh4kdxs\.com
 .*\bh5-page\.net
 .*\bh5-share\.com
 .*\bh5-x\.com
@@ -32696,6 +32697,7 @@
 .*\biosask\.com
 .*\bioschina\.cc
 .*\biosfengwo\.com
+.*\bioshost\.qtlcdn\.com
 .*\biosinit\.com
 .*\biosmu\.com
 .*\biosre\.com
@@ -38172,6 +38174,7 @@
 .*\bleagcard\.com
 .*\bleagsoft\.com
 .*\bleangoo\.com
+.*\bleankun\.com
 .*\bleanlan\.com
 .*\bleanote\.com
 .*\bleanote\.org
@@ -47259,6 +47262,7 @@
 .*\bqgbzyzl\.com
 .*\bqgc39\.com
 .*\bqgcyjq\.org
+.*\bqgdyc\.net
 .*\bqgdz222\.com
 .*\bqgenius\.com
 .*\bqgnyjc\.com
@@ -64635,6 +64639,7 @@
 .*\byanzoujia\.net
 .*\byao123\.com
 .*\byao51\.com
+.*\byaoao\.net
 .*\byaobo\.net
 .*\byaochixs\.com
 .*\byaochufa\.com
@@ -66447,6 +66452,7 @@
 .*\byqmh\.com
 .*\byqphh\.com
 .*\byqptzx\.com
+.*\byqqlm\.vip
 .*\byqsbz\.com
 .*\byqscpt\.com
 .*\byqsns\.com

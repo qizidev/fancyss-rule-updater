@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2021-03-12
+## Last update: 2021-03-13
 
 
 Server=/0-100.com/
@@ -27518,6 +27518,7 @@ Server=/h3yun.com/
 Server=/h4.cc/
 Server=/h41s.com/
 Server=/h4399.com/
+Server=/h4kdxs.com/
 Server=/h5-page.net/
 Server=/h5-share.com/
 Server=/h5-x.com/
@@ -32696,6 +32697,7 @@ Server=/iosappx.com/
 Server=/iosask.com/
 Server=/ioschina.cc/
 Server=/iosfengwo.com/
+Server=/ioshost.qtlcdn.com/
 Server=/iosinit.com/
 Server=/iosmu.com/
 Server=/iosre.com/
@@ -38172,6 +38174,7 @@ Server=/leafword.com/
 Server=/leagcard.com/
 Server=/leagsoft.com/
 Server=/leangoo.com/
+Server=/leankun.com/
 Server=/leanlan.com/
 Server=/leanote.com/
 Server=/leanote.org/
@@ -47259,6 +47262,7 @@ Server=/qg108.com/
 Server=/qgbzyzl.com/
 Server=/qgc39.com/
 Server=/qgcyjq.org/
+Server=/qgdyc.net/
 Server=/qgdz222.com/
 Server=/qgenius.com/
 Server=/qgnyjc.com/
@@ -64635,6 +64639,7 @@ Server=/yanzhiwu.com/
 Server=/yanzoujia.net/
 Server=/yao123.com/
 Server=/yao51.com/
+Server=/yaoao.net/
 Server=/yaobo.net/
 Server=/yaochixs.com/
 Server=/yaochufa.com/
@@ -66447,6 +66452,7 @@ Server=/yqmb001.com/
 Server=/yqmh.com/
 Server=/yqphh.com/
 Server=/yqptzx.com/
+Server=/yqqlm.vip/
 Server=/yqsbz.com/
 Server=/yqscpt.com/
 Server=/yqsns.com/
