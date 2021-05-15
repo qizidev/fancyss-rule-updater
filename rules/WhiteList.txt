@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-05-15
+## Last update: 2021-05-16
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -2183,6 +2183,7 @@
 .*\b1sm23\.com
 .*\b1sohu\.com
 .*\b1speaking\.com
+.*\b1stacks\.net
 .*\b1stchip\.com
 .*\b1stjc\.com
 .*\b1t\.io
@@ -5555,7 +5556,6 @@
 .*\b5ichong\.com
 .*\b5icomment\.com
 .*\b5icool\.com
-.*\b5icool\.org
 .*\b5idc\.com
 .*\b5idev\.com
 .*\b5idhl\.com
@@ -5925,7 +5925,6 @@
 .*\b66diqiu\.com
 .*\b66ds\.net
 .*\b66dt\.com
-.*\b66e\.cc
 .*\b66house\.com
 .*\b66ip\.com
 .*\b66jiedai\.com
@@ -7727,7 +7726,6 @@
 .*\b97wd\.com
 .*\b97xiaoshuo\.com
 .*\b97xiaoshuo\.net
-.*\b97xiazai\.com
 .*\b97you\.net
 .*\b97yrbl\.com
 .*\b98\.com
@@ -8841,7 +8839,6 @@
 .*\bainyi\.com
 .*\baiodt\.com
 .*\baiotvoice\.com
-.*\baiouportal\.com
 .*\baipai\.com
 .*\baipark\.com
 .*\baipear\.com
@@ -10130,7 +10127,6 @@
 .*\basdyf\.com
 .*\basean-china-center\.org
 .*\baseantradecenter\.com
-.*\basen0713\.com
 .*\baseoe\.com
 .*\basfcfs\.com
 .*\basfzl\.net
@@ -11319,7 +11315,6 @@
 .*\bbdsgps\.com
 .*\bbdshuang\.com
 .*\bbdsimg\.com
-.*\bbdsmluntan16\.com
 .*\bbdstatic\.com
 .*\bbdsye\.com
 .*\bbdtic\.com
@@ -21164,6 +21159,7 @@
 .*\bdushu369\.com
 .*\bdushudaren\.com
 .*\bdushuge\.net
+.*\bdushuzhe\.com
 .*\bdushuzhong\.com
 .*\bdushw\.com
 .*\bdustit\.me
@@ -25486,7 +25482,6 @@
 .*\bghostwin7\.net
 .*\bghostxp2\.com
 .*\bghostxp6\.com
-.*\bghostxpsp3\.com
 .*\bghostxpsp3\.net
 .*\bghostxx\.com
 .*\bghpym\.com
@@ -28364,7 +28359,6 @@
 .*\bhenkuai\.com
 .*\bhenmimang\.com
 .*\bhenri\.ren
-.*\bhenshiyong\.com
 .*\bhenxisoft\.com
 .*\bhenzan\.com
 .*\bhenzanapp\.com
@@ -31004,7 +30998,6 @@
 .*\bichuanglan\.com
 .*\bichuangwei\.com
 .*\bichuangye\.com
-.*\bichuangyee\.com
 .*\bichuanyi\.com
 .*\bichunqiu\.com
 .*\bichunt\.com
@@ -37176,7 +37169,6 @@
 .*\blangchao\.com
 .*\blangchengzhixin\.com
 .*\blangda\.cc
-.*\blangegruppe\.com
 .*\blangfang\.com
 .*\blangfangfc\.com
 .*\blangfly\.com
@@ -42688,7 +42680,6 @@
 .*\bnanhufund\.com
 .*\bnanhuhr\.com
 .*\bnanhutravel\.com
-.*\bnanhuwang\.com
 .*\bnani\.online
 .*\bnanjiaosuo\.com
 .*\bnanjing365\.net
@@ -48577,7 +48568,6 @@
 .*\brongstone\.com
 .*\brongtai-china\.com
 .*\brongyao666\.com
-.*\brongyaopeizi\.com
 .*\brongyi\.com
 .*\brongyiju\.com
 .*\brongyitou\.com
@@ -48667,7 +48657,6 @@
 .*\brree\.com
 .*\brrfed\.com
 .*\brrfmn\.com
-.*\brrfzq\.com
 .*\brrhuodong\.com
 .*\brrimg\.com
 .*\brritcn\.com
@@ -58771,6 +58760,7 @@
 .*\bwenjuntech\.com
 .*\bwenjx\.com
 .*\bwenku\.net
+.*\bwenku\.zone
 .*\bwenku321\.com
 .*\bwenku365\.com
 .*\bwenku7\.com
@@ -61867,7 +61857,6 @@
 .*\bxingchenjia\.com
 .*\bxingchenw\.com
 .*\bxingcheshixian\.com
-.*\bxingchezu\.com
 .*\bxingdaoo\.com
 .*\bxingdatrip\.com
 .*\bxingdi\.me
@@ -66594,7 +66583,6 @@
 .*\bzcsblog\.com
 .*\bzcskj\.com
 .*\bzctx\.com
-.*\bzculture\.net
 .*\bzcwxjx\.com
 .*\bzcwz\.com
 .*\bzcxn\.com
@@ -66929,6 +66917,7 @@
 .*\bzgyongxin\.com
 .*\bzgys\.net
 .*\bzgyssyxh\.com
+.*\bzgystsd\.com
 .*\bzgyuwen\.com
 .*\bzgyxlzzs\.com
 .*\bzgyxsw\.org
