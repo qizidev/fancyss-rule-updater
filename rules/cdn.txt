@@ -799,6 +799,7 @@
 10000tc.com
 10000yao.com
 10001wan.com
+1000360.com
 10006.info
 1000ci.net
 1000eb.net
@@ -16450,6 +16451,7 @@ cli.im
 click-v.com
 click369.com
 clickclaro.xyz
+clicksdiy.com
 clickserve.dartsearch.net
 clicksun.net
 clickwifi.net
@@ -17250,6 +17252,7 @@ cnvultr.com
 cnwa.com
 cnwage.com
 cnwaking.com
+cnwangjie.com
 cnwaternews.com
 cnwb.net
 cnwdjj.com
@@ -18945,6 +18948,7 @@ dangbeiprojector.com
 dangcdn.com
 dangdang.com
 danghongyun.com
+danghuan.com
 dangjian.com
 dangjianwang.com
 dangpu.com
@@ -21904,7 +21908,6 @@ eduwenzheng.com
 eduwest.com
 eduwg.com
 eduwo.com
-eduwsw.com
 eduwx.com
 eduxiao.com
 eduyf.com
@@ -25316,7 +25319,6 @@ gepush.com
 gequ77.com
 gequdaquan.net
 geren-jianli.com
-geren.site
 gerenjianli.com
 gerhard-china.com
 germany-leica.net
@@ -29028,6 +29030,7 @@ hngyzx.org
 hnh.cc
 hnhaitian.com
 hnhaofang.com
+hnhllv.net
 hnhnled.com
 hnhw.org
 hnhxxk.com
@@ -29054,6 +29057,7 @@ hnlbdl.com
 hnleisu.com
 hnliangku.com
 hnlungtongzs.com
+hnlzhd.com
 hnlzw.net
 hnmdtv.com
 hnmgjr.com
@@ -32776,7 +32780,6 @@ ivybaby.me
 ivycoffee.com
 ivydad.com
 ivydom.com
-ivynuts.com
 ivypub.org
 ivyschools.com
 ivysoon.com
@@ -33121,6 +33124,7 @@ jcloudedge.com
 jcloudgslb.com
 jcloudimg.com
 jcloudlb.com
+jcloudstatic.com
 jcmob.net
 jcnk120.com
 jcodecraeer.com
@@ -43147,6 +43151,7 @@ nfyk.com
 nfzhouyi.com
 nfzmbrand.com
 ng-alain.com
+nga.wiki
 ngabbs.com
 ngacn.cc
 ngacn.com
@@ -47045,6 +47050,7 @@ qiuyueban.com
 qiuyuewenxue.com
 qiuyumi.com
 qiuzhang.com
+qiuzhijiangtang.com
 qiuziti.com
 qiuziyuan.net
 qivsod.com
@@ -49200,6 +49206,7 @@ sbgl.net
 sbh15.com
 sbiquge.com
 sbk-h5.com
+sbkh5.com
 sbkk8.com
 sbkk88.com
 sblunwen.com
@@ -53909,6 +53916,7 @@ tapas.net
 tapdata.net
 tapdb.com
 tapdb.net
+tapechat.net
 tapenjoy.com
 tapimg.com
 tapotiexie.com
@@ -55218,7 +55226,6 @@ toptastewin.com
 topthink.com
 topthink.net
 toptourservice.com
-topu.com
 topuc.com
 topwalk.com
 topwanwan.com
@@ -63564,6 +63571,8 @@ yaohaixiao.com
 yaohuiji.com
 yaohuo.me
 yaojiao.tv
+yaojibuyu.com
+yaojidsfee.com
 yaojiedianzi.com
 yaojingtang.com
 yaokaihui.com
