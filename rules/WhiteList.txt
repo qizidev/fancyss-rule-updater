@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-06-03
+## Last update: 2021-06-04
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -1666,7 +1666,6 @@
 .*\b1718china\.com
 .*\b1718world\.com
 .*\b171tax\.com
-.*\b171yxw\.com
 .*\b171zz\.com
 .*\b17207\.com
 .*\b172210\.com
@@ -2455,6 +2454,7 @@
 .*\b23-01\.com
 .*\b2300sjz\.com
 .*\b230596\.com
+.*\b230book\.com
 .*\b230tm\.com
 .*\b231122\.com
 .*\b2323u\.com
@@ -4565,7 +4565,6 @@
 .*\b51tijian\.com
 .*\b51ting\.com
 .*\b51tingyi\.com
-.*\b51tmt\.net
 .*\b51toefl\.com
 .*\b51tonglu\.com
 .*\b51tools\.info
@@ -6588,7 +6587,6 @@
 .*\b8080i\.com
 .*\b8081\.net
 .*\b80881\.com
-.*\b8088sz\.com
 .*\b808cdn\.com
 .*\b808w\.com
 .*\b8090-sec\.com
@@ -6787,7 +6785,6 @@
 .*\b869d\.com
 .*\b869v\.com
 .*\b86amsdy\.com
-.*\b86art\.net
 .*\b86campus\.com
 .*\b86clouds\.com
 .*\b86control\.com
@@ -6919,7 +6916,6 @@
 .*\b889ppt\.com
 .*\b889su\.com
 .*\b889xp\.com
-.*\b88bada\.com
 .*\b88bank\.com
 .*\b88bx\.com
 .*\b88cdn\.com
@@ -10973,7 +10969,6 @@
 .*\bbaolaina\.cc
 .*\bbaolijuyuancn\.com
 .*\bbaoltx\.com
-.*\bbaomao1314\.com
 .*\bbaomi\.com
 .*\bbaomi\.org
 .*\bbaomi365\.com
@@ -11907,7 +11902,6 @@
 .*\bbiquan\.link
 .*\bbiqubao\.com
 .*\bbiqubu\.com
-.*\bbiqudie\.com
 .*\bbiqudu\.com
 .*\bbiqudu\.net
 .*\bbiqudu\.tv
@@ -12956,7 +12950,6 @@
 .*\bbtcb\.com
 .*\bbtcbbs\.com
 .*\bbtcbl\.com
-.*\bbtcchina\.com
 .*\bbtcfans\.com
 .*\bbtcha\.com
 .*\bbtckan\.com
@@ -23005,7 +22998,6 @@
 .*\bfanglitong\.com
 .*\bfangmou\.net
 .*\bfangniaowang\.net
-.*\bfangpi\.net
 .*\bfangqk\.com
 .*\bfangshanzi\.com
 .*\bfangshuigongcheng\.net
@@ -28325,7 +28317,6 @@
 .*\bheweather\.net
 .*\bhewebgl\.com
 .*\bhewei\.in
-.*\bhexiangyu\.me
 .*\bhexianrc\.com
 .*\bhexiaoxiang\.com
 .*\bhexicomtech\.com
@@ -33121,7 +33112,6 @@
 .*\bjeagine\.com
 .*\bjeanphy\.online
 .*\bjeanssalon\.com
-.*\bjeast\.net
 .*\bjeasyui\.net
 .*\bjeasyuicn\.com
 .*\bjedex56\.com
@@ -33698,7 +33688,6 @@
 .*\bjin10x\.com
 .*\bjin24k\.com
 .*\bjinanguanggao\.com
-.*\bjinanxw\.com
 .*\bjinanxww\.com
 .*\bjinbaiteng\.com
 .*\bjinbaobeiqiming\.com
@@ -33789,7 +33778,6 @@
 .*\bjingsocial\.com
 .*\bjingsoo\.com
 .*\bjingtanggame\.com
-.*\bjingteinv\.com
 .*\bjingtiaowang\.com
 .*\bjingtuitui\.com
 .*\bjingtum\.com
@@ -34925,7 +34913,6 @@
 .*\bjujusky\.com
 .*\bjujuwan\.com
 .*\bjukandiannews\.com
-.*\bjuke51\.com
 .*\bjukebao\.com
 .*\bjukebao123\.com
 .*\bjukejia\.com
@@ -36119,7 +36106,6 @@
 .*\bkjt\.com
 .*\bkjw\.cc
 .*\bkjwlxt\.com
-.*\bkjxfx\.com
 .*\bkjycx\.com
 .*\bkjzxtk\.com
 .*\bkk\.com
@@ -37828,7 +37814,6 @@
 .*\blhtjyy\.com
 .*\blhwill\.com
 .*\blhwytj\.com
-.*\blhzjz\.com
 .*\blhzly\.net
 .*\blhzq\.com
 .*\bli-ca\.com
@@ -38649,7 +38634,6 @@
 .*\bll11\.com
 .*\bllbetter\.com
 .*\bllcat\.tech
-.*\bllduang\.com
 .*\bllever\.com
 .*\bllewan\.com
 .*\bllgjx\.com
@@ -43987,7 +43971,6 @@
 .*\bomowork\.com
 .*\bompchina\.net
 .*\bomsheji\.com
-.*\bomtmy\.com
 .*\bomtxw\.com
 .*\bomuying\.com
 .*\bon-sun\.com
@@ -46570,7 +46553,6 @@
 .*\bqiecdn\.com
 .*\bqieerxi\.com
 .*\bqieman\.com
-.*\bqiepianyun\.com
 .*\bqieseo\.com
 .*\bqieta\.com
 .*\bqietu6\.com
@@ -51559,7 +51541,6 @@
 .*\bsndhr\.com
 .*\bsndo\.com
 .*\bsneac\.com
-.*\bsneakerhz\.com
 .*\bsneia\.org
 .*\bsngdxsn\.com
 .*\bsnh48\.com
@@ -52910,7 +52891,6 @@
 .*\bsxwpyx\.com
 .*\bsxwrsa\.org
 .*\bsxww\.com
-.*\bsxxbdwh\.com
 .*\bsxxcrl\.com
 .*\bsxxdll\.com
 .*\bsxxiaomeng\.com
@@ -54320,7 +54300,6 @@
 .*\btianjingrong\.com
 .*\btianjinwe\.com
 .*\btianjinxs\.com
-.*\btianjinzs\.com
 .*\btianjumuye\.com
 .*\btiankong\.com
 .*\btiankong\.info
@@ -59135,7 +59114,6 @@
 .*\bwildgun\.net
 .*\bwill6\.com
 .*\bwillcdn\.com
-.*\bwillerce\.com
 .*\bwillmao\.com
 .*\bwillsemi\.com
 .*\bwillsfitness\.net
@@ -60863,7 +60841,6 @@
 .*\bxgsdk\.com
 .*\bxgslb\.net
 .*\bxgt2014\.com
-.*\bxgtex\.com
 .*\bxgv5\.com
 .*\bxgwx\.net
 .*\bxgxedu\.com
@@ -66551,7 +66528,6 @@
 .*\bzggbdsw\.net
 .*\bzggcks\.com
 .*\bzggdjj\.com
-.*\bzgghw\.org
 .*\bzggjgy\.com
 .*\bzgglkx\.com
 .*\bzggonglue\.com
