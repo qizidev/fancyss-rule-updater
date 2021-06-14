@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-06-14
+## Last update: 2021-06-15
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -27451,6 +27451,7 @@
 .*\bhaoread\.com
 .*\bhaorencai\.net
 .*\bhaorendao\.com
+.*\bhaorenka\.me
 .*\bhaorooms\.com
 .*\bhaoseals\.com
 .*\bhaosenchina\.com
@@ -42485,6 +42486,7 @@
 .*\bnanrenbang\.in
 .*\bnanrenge\.net
 .*\bnanrentu\.cc
+.*\bnanrenvip1\.com
 .*\bnanrenwa\.com
 .*\bnanrenwo\.net
 .*\bnanshan\.biz
@@ -55374,6 +55376,7 @@
 .*\bttysq\.com
 .*\bttyyuuoo\.com
 .*\bttz\.com
+.*\bttzhongbao\.com
 .*\bttzhushou\.com
 .*\bttzw\.com
 .*\bttzw\.tv
@@ -66599,6 +66602,7 @@
 .*\bzhainanpindao\.cc
 .*\bzhaiqianfeng\.com
 .*\bzhairport\.com
+.*\bzhaisiji\.net
 .*\bzhaixiaoniu\.com
 .*\bzhaji\.org
 .*\bzhan\.com

@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2021-06-14
+## Last update: 2021-06-15
 
 
 Server=/0-100.com/
@@ -27451,6 +27451,7 @@ Server=/haorc.com/
 Server=/haoread.com/
 Server=/haorencai.net/
 Server=/haorendao.com/
+Server=/haorenka.me/
 Server=/haorooms.com/
 Server=/haoseals.com/
 Server=/haosenchina.com/
@@ -42485,6 +42486,7 @@ Server=/nanqi.org/
 Server=/nanrenbang.in/
 Server=/nanrenge.net/
 Server=/nanrentu.cc/
+Server=/nanrenvip1.com/
 Server=/nanrenwa.com/
 Server=/nanrenwo.net/
 Server=/nanshan.biz/
@@ -55374,6 +55376,7 @@ Server=/ttys5.com/
 Server=/ttysq.com/
 Server=/ttyyuuoo.com/
 Server=/ttz.com/
+Server=/ttzhongbao.com/
 Server=/ttzhushou.com/
 Server=/ttzw.com/
 Server=/ttzw.tv/
@@ -66599,6 +66602,7 @@ Server=/zhainanhuayuan.com/
 Server=/zhainanpindao.cc/
 Server=/zhaiqianfeng.com/
 Server=/zhairport.com/
+Server=/zhaisiji.net/
 Server=/zhaixiaoniu.com/
 Server=/zhaji.org/
 Server=/zhan.com/
@@ -68899,6 +68903,7 @@ Server=/adservice.google.com/
 Server=/app-measurement.com/
 Server=/beacons.gcp.gvt2.com/
 Server=/beacons.gvt2.com/
+Server=/beacons2.gvt2.com/
 Server=/beacons3.gvt2.com/
 Server=/c.admob.com/
 Server=/c.android.clients.google.com/
@@ -68916,12 +68921,15 @@ Server=/doubleclick.net/
 Server=/firebase-settings.crashlytics.com/
 Server=/fonts.googleapis.com/
 Server=/fonts.gstatic.com/
+Server=/g1.gstatic.com/
+Server=/g2.gstatic.com/
 Server=/google-analytics.com/
 Server=/googleadservices.com/
 Server=/googleanalytics.com/
 Server=/googlesyndication.com/
 Server=/googletagmanager.com/
 Server=/googletagservices.com/
+Server=/gstaticadssl.l.google.com/
 Server=/gtm.oasisfeng.com/
 Server=/imasdk.googleapis.com/
 Server=/ocsp.pki.goog/
