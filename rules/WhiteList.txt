@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-07-22
+## Last update: 2021-07-23
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -39,7 +39,6 @@
 .*\b0056\.cc
 .*\b0061\.com\.au
 .*\b00615\.net
-.*\b007\.mx
 .*\b00791\.com
 .*\b007hd\.com
 .*\b007manhua\.com
@@ -1550,7 +1549,6 @@
 .*\b1688988\.com
 .*\b1688cdn\.com
 .*\b1688eric\.com
-.*\b1688gd\.com
 .*\b1688la\.com
 .*\b1688na\.com
 .*\b1688s\.com
@@ -8992,6 +8990,7 @@
 .*\baliexpress\.com
 .*\baliexpress\.ru
 .*\balifabu\.com
+.*\balifanyi\.com
 .*\baligames\.com
 .*\baligaofang\.com
 .*\baligfwaf\.com
@@ -10592,7 +10591,6 @@
 .*\bbaishishuju\.com
 .*\bbaishixi\.xyz
 .*\bbaishudata\.com
-.*\bbaishuge\.net
 .*\bbaishunet\.com
 .*\bbaisiker\.com
 .*\bbaisu\.com
@@ -18489,7 +18487,6 @@
 .*\bdadclab\.com
 .*\bdaddymami\.net
 .*\bdadetong\.com
-.*\bdadeyu\.com
 .*\bdadianstudio\.com
 .*\bdadighost\.com
 .*\bdadijilu\.com
@@ -22495,6 +22492,7 @@
 .*\bexinee\.com
 .*\bexing103\.com
 .*\bexing113\.com
+.*\bexing125\.com
 .*\bexiqu\.com
 .*\bexmailqq\.com
 .*\bexmrw\.com
@@ -22947,7 +22945,6 @@
 .*\bfapiao\.com
 .*\bfapiao365\.com
 .*\bfapiaobang\.com
-.*\bfapiaoxx\.com
 .*\bfaqrobot\.org
 .*\bfaqwork\.com
 .*\bfar123\.com
@@ -22982,6 +22979,7 @@
 .*\bfastidea\.cc
 .*\bfastidea\.me
 .*\bfastio\.tech
+.*\bfastliii\.com
 .*\bfastmirror\.org
 .*\bfastmis\.com
 .*\bfastmock\.site
@@ -27068,6 +27066,7 @@
 .*\bhanmi520\.com
 .*\bhannor\.com
 .*\bhanpinyuan\.com
+.*\bhanqiweb\.co
 .*\bhanqiweb\.com
 .*\bhanqiweb\.net
 .*\bhanqiweb\.red
@@ -30084,7 +30083,6 @@
 .*\bhwgmthree\.com
 .*\bhwht\.com
 .*\bhwjyw\.com
-.*\bhwk603\.com
 .*\bhwlantian\.com
 .*\bhwlpz\.com
 .*\bhwrecruit\.com
@@ -34772,7 +34770,6 @@
 .*\bjustalkcloud\.com
 .*\bjustbilt\.com
 .*\bjustbon\.com
-.*\bjustcartoon\.com
 .*\bjustdo\.tv
 .*\bjustdojava\.com
 .*\bjustep\.com
@@ -43386,7 +43383,6 @@
 .*\boa8000\.com
 .*\boabg\.net
 .*\boabus\.net
-.*\boachn\.net
 .*\boacn\.org
 .*\boact\.net
 .*\boadun\.com
@@ -49098,7 +49094,6 @@
 .*\bseedit\.com
 .*\bseedland\.cc
 .*\bseedsufe\.com
-.*\bseedvd\.com
 .*\bseefarger\.com
 .*\bseegif\.com
 .*\bseek114\.com
@@ -52971,7 +52966,6 @@
 .*\bt6q\.com
 .*\bt7t71\.com
 .*\bt85\.net
-.*\bt888998\.com
 .*\bt888w\.com
 .*\bt8tcdn\.com
 .*\bta26\.com
@@ -64892,7 +64886,6 @@
 .*\byuedaoec\.com
 .*\byuedisk\.com
 .*\byuedu\.pro
-.*\byuedu88\.com
 .*\byuedufang\.com
 .*\byueduji\.com
 .*\byuedun\.wang
@@ -67714,7 +67707,6 @@
 .*\bzmxiu\.com
 .*\bzmye5vly\.com
 .*\bzmyj2c\.com
-.*\bzmz2020\.com
 .*\bzmzapi\.com
 .*\bzmzapi\.net
 .*\bzmzjk\.com
