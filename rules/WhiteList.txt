@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-07-30
+## Last update: 2021-07-31
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -1974,7 +1974,6 @@
 .*\b198game\.com
 .*\b198game\.net
 .*\b198w\.net
-.*\b1992789\.com
 .*\b199508\.com
 .*\b1997sty\.com
 .*\b1998mall\.com
@@ -3130,7 +3129,6 @@
 .*\b360kuai\.com
 .*\b360kuaixue\.com
 .*\b360kxr\.com
-.*\b360laoshi\.com
 .*\b360lj\.com
 .*\b360log\.com
 .*\b360longyan\.com
@@ -7190,7 +7188,6 @@
 .*\b91tzy\.com
 .*\b91ud\.com
 .*\b91up\.com
-.*\b91uqu\.com
 .*\b91vpn\.com
 .*\b91vps\.com
 .*\b91vst\.com
@@ -8482,7 +8479,6 @@
 .*\baicaicdn\.com
 .*\baicaike\.com
 .*\baicdn\.com
-.*\baicdn2\.com
 .*\baicdn4\.com
 .*\baicdn5\.com
 .*\baichaicp\.com
@@ -16228,7 +16224,6 @@
 .*\bcloud-links\.net
 .*\bcloud-neofussvr\.sslcs\.cdngc\.net
 .*\bcloud-sun\.com
-.*\bcloud301\.net
 .*\bcloudacc-inc\.com
 .*\bcloudajs\.org
 .*\bcloudangelfunds\.com
@@ -19934,7 +19929,6 @@
 .*\bdllake\.com
 .*\bdllcm\.com
 .*\bdlldone\.com
-.*\bdllgslb\.com
 .*\bdllhook\.com
 .*\bdllku\.com
 .*\bdllxsp\.com
@@ -21830,7 +21824,6 @@
 .*\bek6\.com
 .*\bekaidian\.com
 .*\bekan001\.com
-.*\bekan123\.com
 .*\bekang99\.com
 .*\bekaobang\.com
 .*\bekaoyan\.com
@@ -22460,6 +22453,7 @@
 .*\bexinee\.com
 .*\bexing103\.com
 .*\bexing113\.com
+.*\bexing118\.com
 .*\bexing125\.com
 .*\bexiqu\.com
 .*\bexmailqq\.com
@@ -24556,7 +24550,6 @@
 .*\bganniu\.com
 .*\bganqi\.com
 .*\bganqi\.net
-.*\bgansdai\.com
 .*\bganso\.net
 .*\bgansuci\.com
 .*\bgansunet\.com
@@ -29201,7 +29194,6 @@
 .*\bhsxxad\.com
 .*\bhsybyh\.com
 .*\bhsyfcenter\.com
-.*\bhsyjs\.com
 .*\bhsysupply\.com
 .*\bhsyuntai\.com
 .*\bhsyyf\.me
@@ -33585,6 +33577,7 @@
 .*\bjintoutiao\.com
 .*\bjinwaimai\.com
 .*\bjinwin\.net
+.*\bjinxianglian\.net
 .*\bjinxidao\.com
 .*\bjinxiu8\.com
 .*\bjinxuliang\.com
@@ -36835,7 +36828,6 @@
 .*\blaohuabao\.com
 .*\blaohuangli\.net
 .*\blaohucaijing\.com
-.*\blaohuyou\.xyz
 .*\blaohuyun\.com
 .*\blaojilu\.com
 .*\blaojiuxitong\.com
@@ -37541,7 +37533,6 @@
 .*\blianzhongmingyuan\.com
 .*\blianzhongyun\.com
 .*\blianzhuli\.com
-.*\bliao1\.net
 .*\bliao98\.com
 .*\bliaocao\.com
 .*\bliaocheng\.cc
@@ -44612,6 +44603,7 @@
 .*\bpgzx\.net
 .*\bph1126\.net
 .*\bphalapi\.net
+.*\bpharmcube\.com
 .*\bphaser-china\.com
 .*\bphb123\.com
 .*\bphdwu\.com
@@ -45069,7 +45061,6 @@
 .*\bpluosi\.com
 .*\bplures\.net
 .*\bplusgantt\.com
-.*\bplusmedia\.site
 .*\bplutuspay\.com
 .*\bpluvet\.com
 .*\bplycd\.com
@@ -45161,7 +45152,6 @@
 .*\bpolywuye\.com
 .*\bpomears\.com
 .*\bpomoho\.com
-.*\bpomoyxpj\.com
 .*\bpondsi\.com
 .*\bpongpong\.club
 .*\bponley\.com
@@ -45592,6 +45582,7 @@
 .*\bpw1999\.com
 .*\bpw88\.com
 .*\bpwmis\.com
+.*\bpwmqr\.com
 .*\bpwp\.ink
 .*\bpwrd\.com
 .*\bpwsannong\.com
@@ -50722,7 +50713,6 @@
 .*\bsiteapp-static\.com
 .*\bsiteinfourl\.com
 .*\bsitekc\.com
-.*\bsiterankd\.com
 .*\bsites120\.com
 .*\bsitezj\.com
 .*\bsithc\.com
@@ -53251,6 +53241,7 @@
 .*\btaozaisheng\.com
 .*\btaozhutu\.com
 .*\btaozhuwu\.com
+.*\btapapis\.com
 .*\btapas\.net
 .*\btapdata\.net
 .*\btapdb\.com
@@ -54246,7 +54237,6 @@
 .*\btlcharity\.com
 .*\btlfjw\.com
 .*\btlfw\.net
-.*\btlgslb\.com
 .*\btlightsky\.com
 .*\btljcw\.com
 .*\btljob8001\.com
@@ -59961,7 +59951,6 @@
 .*\bxajjwy\.com
 .*\bxajob\.com
 .*\bxajr\.com
-.*\bxajxpl\.com
 .*\bxalanq\.com
 .*\bxalawyer\.net
 .*\bxalhar\.net
@@ -62669,7 +62658,6 @@
 .*\byangluojob\.com
 .*\byangluoxw\.com
 .*\byangmao\.info
-.*\byangmaod\.com
 .*\byangmaodang\.org
 .*\byangmaohao\.net
 .*\byangner\.com
@@ -64062,7 +64050,6 @@
 .*\byofond\.com
 .*\byofond\.net
 .*\byofus\.com
-.*\byogacn\.net
 .*\byogeev\.com
 .*\byogurtcat\.com
 .*\byoher\.com
