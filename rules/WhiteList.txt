@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-02-21
+## Last update: 2022-02-22
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -20256,6 +20256,7 @@
 .*\bdrlmeng\.com
 .*\bdrm-x\.com
 .*\bdrm-x\.net
+.*\bdrmaml\.com
 .*\bdrmj\.org
 .*\bdroi\.com
 .*\bdroibaas\.com
@@ -34742,6 +34743,7 @@
 .*\bkaixin5\.net
 .*\bkaixinbao\.com
 .*\bkaixindou\.net
+.*\bkaixinguopiao\.com
 .*\bkaixinguopiaowu\.net
 .*\bkaixinhui\.com
 .*\bkaixinhui\.net
@@ -42621,6 +42623,7 @@
 .*\bntfabu\.com
 .*\bntfsformac\.cc
 .*\bnthfw\.com
+.*\bnthysp\.com
 .*\bntjoy\.com
 .*\bntjrchina\.com
 .*\bntjymall\.com
@@ -64123,6 +64126,7 @@
 .*\byueyuzhushou\.com
 .*\byueyv\.com
 .*\byuez\.me
+.*\byufeitongji\.com
 .*\byufengyangfan\.com
 .*\byufu365\.com
 .*\byufuid\.com

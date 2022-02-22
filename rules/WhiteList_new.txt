@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2022-02-21
+## Last update: 2022-02-22
 
 
 Server=/0-100.com/
@@ -20256,6 +20256,7 @@ Server=/drli.group/
 Server=/drlmeng.com/
 Server=/drm-x.com/
 Server=/drm-x.net/
+Server=/drmaml.com/
 Server=/drmj.org/
 Server=/droi.com/
 Server=/droibaas.com/
@@ -34742,6 +34743,7 @@ Server=/kaixin001.com/
 Server=/kaixin5.net/
 Server=/kaixinbao.com/
 Server=/kaixindou.net/
+Server=/kaixinguopiao.com/
 Server=/kaixinguopiaowu.net/
 Server=/kaixinhui.com/
 Server=/kaixinhui.net/
@@ -42621,6 +42623,7 @@ Server=/ntes53.com/
 Server=/ntfabu.com/
 Server=/ntfsformac.cc/
 Server=/nthfw.com/
+Server=/nthysp.com/
 Server=/ntjoy.com/
 Server=/ntjrchina.com/
 Server=/ntjymall.com/
@@ -64123,6 +64126,7 @@ Server=/yueyuxuan.com/
 Server=/yueyuzhushou.com/
 Server=/yueyv.com/
 Server=/yuez.me/
+Server=/yufeitongji.com/
 Server=/yufengyangfan.com/
 Server=/yufu365.com/
 Server=/yufuid.com/
