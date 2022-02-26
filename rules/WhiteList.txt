@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-02-25
+## Last update: 2022-02-26
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -24852,7 +24852,6 @@
 .*\bgk-net\.com
 .*\bgk-z\.com
 .*\bgk\.link
-.*\bgk027\.com
 .*\bgk100\.com
 .*\bgk114\.com
 .*\bgk99\.com
@@ -25940,7 +25939,6 @@
 .*\bgxb\.io
 .*\bgxb2b\.net
 .*\bgxbaidutg\.com
-.*\bgxbcsh\.com
 .*\bgxbf\.net
 .*\bgxbys\.com
 .*\bgxbyw\.com
@@ -31401,6 +31399,7 @@
 .*\bipengchen\.com
 .*\bipengtai\.com
 .*\biper2\.com
+.*\bipethelp\.com
 .*\bipexp\.com
 .*\bipfeibiao\.com
 .*\bipfen\.com
@@ -33082,7 +33081,6 @@
 .*\bjingyuelaw\.com
 .*\bjingyuxiaoban\.com
 .*\bjingyuyun\.com
-.*\bjingzhan1688\.com
 .*\bjingzhe\.me
 .*\bjingzhengu\.com
 .*\bjingzhiyuanyi\.com
@@ -46024,7 +46022,6 @@
 .*\bqookar\.com
 .*\bqosq\.com
 .*\bqp110\.com
-.*\bqp2c\.com
 .*\bqp46\.com
 .*\bqp832\.com
 .*\bqp8u\.com
@@ -48946,7 +48943,6 @@
 .*\bshenchai\.com
 .*\bshenchuang\.com
 .*\bshencut\.com
-.*\bshendamachine\.com
 .*\bshendoow\.com
 .*\bshendu\.com
 .*\bshendugho\.com

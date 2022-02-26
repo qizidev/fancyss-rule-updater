@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2022-02-25
+## Last update: 2022-02-26
 
 
 Server=/0-100.com/
@@ -24852,7 +24852,6 @@ Server=/gjzy.com/
 Server=/gk-net.com/
 Server=/gk-z.com/
 Server=/gk.link/
-Server=/gk027.com/
 Server=/gk100.com/
 Server=/gk114.com/
 Server=/gk99.com/
@@ -25940,7 +25939,6 @@ Server=/gxar.com/
 Server=/gxb.io/
 Server=/gxb2b.net/
 Server=/gxbaidutg.com/
-Server=/gxbcsh.com/
 Server=/gxbf.net/
 Server=/gxbys.com/
 Server=/gxbyw.com/
@@ -31401,6 +31399,7 @@ Server=/ipehua.com/
 Server=/ipengchen.com/
 Server=/ipengtai.com/
 Server=/iper2.com/
+Server=/ipethelp.com/
 Server=/ipexp.com/
 Server=/ipfeibiao.com/
 Server=/ipfen.com/
@@ -33082,7 +33081,6 @@ Server=/jingyuan.com/
 Server=/jingyuelaw.com/
 Server=/jingyuxiaoban.com/
 Server=/jingyuyun.com/
-Server=/jingzhan1688.com/
 Server=/jingzhe.me/
 Server=/jingzhengu.com/
 Server=/jingzhiyuanyi.com/
@@ -46024,7 +46022,6 @@ Server=/qooic.com/
 Server=/qookar.com/
 Server=/qosq.com/
 Server=/qp110.com/
-Server=/qp2c.com/
 Server=/qp46.com/
 Server=/qp832.com/
 Server=/qp8u.com/
@@ -48946,7 +48943,6 @@ Server=/shenbinghang.com/
 Server=/shenchai.com/
 Server=/shenchuang.com/
 Server=/shencut.com/
-Server=/shendamachine.com/
 Server=/shendoow.com/
 Server=/shendu.com/
 Server=/shendugho.com/
