@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2022-03-24
+## Last update: 2022-03-25
 
 
 Server=/0-100.com/
@@ -2636,6 +2636,7 @@ Server=/2ktq.com/
 Server=/2ktvb.com/
 Server=/2kxs.org/
 Server=/2kz.net/
+Server=/2lian.com/
 Server=/2liang.net/
 Server=/2lieqi.com/
 Server=/2loveyou.com/
@@ -21233,6 +21234,7 @@ Server=/ehclglobal.com/
 Server=/ehcoo.com/
 Server=/ehealthcareforum.com/
 Server=/ehedco.com/
+Server=/ehijoy.com/
 Server=/ehiman.com/
 Server=/ehinvest.hk/
 Server=/ehome5.com/
@@ -26260,6 +26262,7 @@ Server=/hainuotech.com/
 Server=/haiqingyanyu.com/
 Server=/haiqisoft.com/
 Server=/haiqq.com/
+Server=/hair43.com/
 Server=/hair8.net/
 Server=/hairbobo.com/
 Server=/hairunmedia.com/
@@ -35458,6 +35461,7 @@ Server=/ksyun.com/
 Server=/ksyunad.com/
 Server=/ksyuncdn-k1.com/
 Server=/ksyuncdn.com/
+Server=/ksyuncs.com/
 Server=/ksyungslb.com/
 Server=/ksyunv5.com/
 Server=/ksyunwaf.com/
@@ -66978,6 +66982,7 @@ Server=/zxzj.me/
 Server=/zxzlf.com/
 Server=/zxzyl.com/
 Server=/zxzyy.com/
+Server=/zy91.com/
 Server=/zy-cam.com/
 Server=/zy2071.com/
 Server=/zy728.com/

@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-03-24
+## Last update: 2022-03-25
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -2636,6 +2636,7 @@
 .*\b2ktvb\.com
 .*\b2kxs\.org
 .*\b2kz\.net
+.*\b2lian\.com
 .*\b2liang\.net
 .*\b2lieqi\.com
 .*\b2loveyou\.com
@@ -21233,6 +21234,7 @@
 .*\behcoo\.com
 .*\behealthcareforum\.com
 .*\behedco\.com
+.*\behijoy\.com
 .*\behiman\.com
 .*\behinvest\.hk
 .*\behome5\.com
@@ -26260,6 +26262,7 @@
 .*\bhaiqingyanyu\.com
 .*\bhaiqisoft\.com
 .*\bhaiqq\.com
+.*\bhair43\.com
 .*\bhair8\.net
 .*\bhairbobo\.com
 .*\bhairunmedia\.com
@@ -35458,6 +35461,7 @@
 .*\bksyunad\.com
 .*\bksyuncdn-k1\.com
 .*\bksyuncdn\.com
+.*\bksyuncs\.com
 .*\bksyungslb\.com
 .*\bksyunv5\.com
 .*\bksyunwaf\.com
@@ -66978,6 +66982,7 @@
 .*\bzxzlf\.com
 .*\bzxzyl\.com
 .*\bzxzyy\.com
+.*\bzy91\.com
 .*\bzy-cam\.com
 .*\bzy2071\.com
 .*\bzy728\.com
